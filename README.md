@@ -32,7 +32,7 @@ This repository is for our paper:
 >🌟 If you find this resource helpful, please consider to star this repository and cite our [research](#citation)!
 
 <p align="center">
-<img src="assets/dvoting.svg" width = "95%" alt="" align=center />
+<img src="assets/dvoting.png" width = "95%" alt="" align=center />
 </p>
 
 ## Updates

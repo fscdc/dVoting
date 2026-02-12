@@ -14,5 +14,5 @@ dream_eval/evals_results
 dream_eval/evals_results_greedy
 *.jsonl
 evals_results*
-*.png
 figs
+.DS_Store
