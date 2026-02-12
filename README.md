@@ -49,9 +49,9 @@ If you face any issues with the installation, please feel free to open an issue.
 pip install -r requirements.txt
 ```
 
-### 2. Download the dataset
+### 2. Download datasets and models
 
-You can download GSM8K & MATH500 & GPQA & ARC-C & MMLU for evaluation by directly running the scripts or from HuggingFace.
+You can download GSM8K & MATH500 & GPQA & ARC-C & MMLU / LLaDA-8B-Instruct & GSAI-ML/LLaDA-1.5 & Dream-org/Dream-v0-Instruct-7B for evaluation by directly running the scripts or from HuggingFace.
 
 ### 3. Evaluation
 

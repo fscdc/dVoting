@@ -31,8 +31,6 @@ from transformers.utils import (
     logging,
 )
 
-from .cache_utils import PrefillCache, DynamicCache
-
 logger = logging.get_logger(__name__)
 
 
