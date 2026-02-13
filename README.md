@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**[<a href="https://huggingface.co/papers/2602.12153">HuggingFace Daily Paper</a>]** **[<a href="">Twitter</a>]**
+**[<a href="https://huggingface.co/papers/2602.12153">HuggingFace Daily Paper</a>]** **[<a href="https://x.com/si_feng32704/status/2022164193202647445">Twitter</a>]**
 
 </div>
 
