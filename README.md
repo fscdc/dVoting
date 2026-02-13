@@ -8,13 +8,13 @@
 ![](https://img.shields.io/github/forks/fscdc/dVoting?color=lightblue)
 ![](https://img.shields.io/github/last-commit/fscdc/dVoting?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
-<a href="todo" target="_blank"><img src="https://img.shields.io/badge/arXiv-todo-009688.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2602.12153" target="_blank"><img src="https://img.shields.io/badge/arXiv-2602.12153-009688.svg" alt="arXiv"></a>
 
 </div>
 
 <div align="center">
 
-<!-- **[<a href="https://huggingface.co/papers/2510.02240">HuggingFace Daily Paper</a>]** **[<a href="https://x.com/si_feng32704/status/1973968606468997410">Twitter</a>]** **[<a href="https://mp.weixin.qq.com/s/jTnrxfZ7Secq1-ZO1mDMyg">机器之心</a>]** -->
+**[<a href="https://huggingface.co/papers/2602.12153">HuggingFace Daily Paper</a>]** **[<a href="">Twitter</a>]**
 
 </div>
 
@@ -37,7 +37,8 @@ This repository is for our paper:
 
 ## Updates
 
-- 2026-01-26: 🚀 We release code for [dVoting](todo)!
+- 2026-02-13: 🚀 [arXiv](https://arxiv.org/abs/2602.12153) online!
+- 2026-02-12: 🚀 We release code for dVoting!
 
 ## Usage
 
@@ -76,5 +77,10 @@ We thank the authors of [LLaDA](https://github.com/ML-GSAI/LLaDA), [Dream](https
 If you find this paper useful in your research, please consider citing our papers:
 
 ```bibtex
-todo
+@article{feng2026dvoting,
+      title={dVoting: Fast Voting for dLLMs}, 
+      author={Feng, Sicheng and Chen, Zigeng and Ma, Xinyin and Fang, Gongfan and Wang, Xinchao},
+      journal={arXiv preprint arXiv:2602.12153},
+      year={2026},
+}
 ```
